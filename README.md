@@ -79,7 +79,7 @@ bu aşamadan sonra ogrenci seçilip ogrenci bilgileri girilirse ogrenciye özgü
 
 ## Katkılar
 
-Yusuf Gürcan
+
 ChatGpt
 
 ---
